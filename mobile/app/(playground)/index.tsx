@@ -14,7 +14,7 @@ export default function HomeScreen() {
         />
       }>
       <Box px={'md'} py={'md'}>
-        <Text type={'extraBold18'}>The Play ground</Text>
+        <Text type={'extraBold18'}>The Playground</Text>
       </Box>
     </ParallaxScrollView>
   )
